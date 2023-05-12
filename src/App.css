@@ -1,0 +1,36 @@
+body{
+  background-color: rgb(69, 67, 67);
+}
+button{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border-radius: 10px 10px;
+  border-style: none;
+  cursor: pointer;
+  background-color: none;
+  margin:  10px 0px ;
+}
+button:hover{
+  color: red;
+}
+.App{
+  width: 1200px;
+  margin:  0 auto;
+
+}
+.cont{
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.btns{
+  display: flex;
+  justify-content: center;
+}
+@media(max-width:500px){
+  .cont{
+    display: grid;
+    grid-template-columns: 1fr;
+     margin-left: 37%;
+  }
+}
