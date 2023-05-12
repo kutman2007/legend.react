@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/legend.react/static/css/main.abf618f2.css",
+    "main.js": "/legend.react/static/js/main.424106a0.js",
+    "index.html": "/legend.react/index.html",
+    "main.abf618f2.css.map": "/legend.react/static/css/main.abf618f2.css.map",
+    "main.424106a0.js.map": "/legend.react/static/js/main.424106a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abf618f2.css",
+    "static/js/main.424106a0.js"
+  ]
+}
